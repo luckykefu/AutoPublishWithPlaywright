@@ -5,6 +5,8 @@ import tkinter as tk
 from functools import partial
 from publish_func import baijiahao, bilibili, csdn, get_cover, init_browser, jianshu, juejin, tencentcloud, toutiao, wxgzh, zhihu
 from playwright.async_api import Playwright, async_playwright, expect
+from ttkbootstrap import Style
+from tkinter import ttk
 
 async def run_wxgzh():
     async with async_playwright() as p:
@@ -55,10 +57,13 @@ def run_async(async_func):
     def run():
         asyncio.run(async_func())
     threading.Thread(target=run).start()
-          
+
+style = Style()
+style.theme_names()
+root = style.master
 # 创建主窗口
-root = tk.Tk()
-root.geometry("400x300")
+# root = tk.Tk()
+root.geometry("800x600")
 
 # 创建按钮并绑定对应的函数
 button1 = tk.Button(root, text="WZGZH", command=partial(run_async, run_wxgzh))

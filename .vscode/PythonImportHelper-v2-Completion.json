@@ -1,0 +1,444 @@
+[
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "ActionChains",
+        "importPath": "selenium.webdriver",
+        "description": "selenium.webdriver",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver",
+        "documentation": {}
+    },
+    {
+        "label": "NoSuchElementException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ElementNotInteractableException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "Keys",
+        "importPath": "selenium.webdriver.common.keys",
+        "description": "selenium.webdriver.common.keys",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.keys",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "pypandoc",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pypandoc",
+        "description": "pypandoc",
+        "detail": "pypandoc",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "mistune",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mistune",
+        "description": "mistune",
+        "detail": "mistune",
+        "documentation": {}
+    },
+    {
+        "label": "sync_playwright",
+        "importPath": "playwright.sync_api",
+        "description": "playwright.sync_api",
+        "isExtraImport": true,
+        "detail": "playwright.sync_api",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "find_and_click",
+        "importPath": "func.find_click",
+        "description": "func.find_click",
+        "isExtraImport": true,
+        "detail": "func.find_click",
+        "documentation": {}
+    },
+    {
+        "label": "find_input",
+        "importPath": "func.find_click",
+        "description": "func.find_click",
+        "isExtraImport": true,
+        "detail": "func.find_click",
+        "documentation": {}
+    },
+    {
+        "label": "find_upload",
+        "importPath": "func.find_click",
+        "description": "func.find_click",
+        "isExtraImport": true,
+        "detail": "func.find_click",
+        "documentation": {}
+    },
+    {
+        "label": "get_herf",
+        "importPath": "func.find_click",
+        "description": "func.find_click",
+        "isExtraImport": true,
+        "detail": "func.find_click",
+        "documentation": {}
+    },
+    {
+        "label": "markdownhere",
+        "importPath": "func.find_click",
+        "description": "func.find_click",
+        "isExtraImport": true,
+        "detail": "func.find_click",
+        "documentation": {}
+    },
+    {
+        "label": "wait_login_success",
+        "importPath": "func.find_click",
+        "description": "func.find_click",
+        "isExtraImport": true,
+        "detail": "func.find_click",
+        "documentation": {}
+    },
+    {
+        "label": "md_to_docx",
+        "importPath": "func.md_to_doc",
+        "description": "func.md_to_doc",
+        "isExtraImport": true,
+        "detail": "func.md_to_doc",
+        "documentation": {}
+    },
+    {
+        "label": "content",
+        "importPath": "func.title_content",
+        "description": "func.title_content",
+        "isExtraImport": true,
+        "detail": "func.title_content",
+        "documentation": {}
+    },
+    {
+        "label": "md_content",
+        "importPath": "func.title_content",
+        "description": "func.title_content",
+        "isExtraImport": true,
+        "detail": "func.title_content",
+        "documentation": {}
+    },
+    {
+        "label": "title",
+        "importPath": "func.title_content",
+        "description": "func.title_content",
+        "isExtraImport": true,
+        "detail": "func.title_content",
+        "documentation": {}
+    },
+    {
+        "label": "Options",
+        "importPath": "selenium.webdriver.chrome.options",
+        "description": "selenium.webdriver.chrome.options",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.options",
+        "documentation": {}
+    },
+    {
+        "label": "get_herf",
+        "kind": 2,
+        "importPath": "func.find_click",
+        "description": "func.find_click",
+        "peekOfCode": "def get_herf(driver, xpath):\n    try:\n        element = driver.find_element(By.XPATH,xpath)\n        return element.get_attribute(\"href\")\n    except NoSuchElementException:\n        return None\ndef find_and_click(driver, xpath):\n        try:\n            actions = ActionChains(driver)\n            WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, xpath)))",
+        "detail": "func.find_click",
+        "documentation": {}
+    },
+    {
+        "label": "find_and_click",
+        "kind": 2,
+        "importPath": "func.find_click",
+        "description": "func.find_click",
+        "peekOfCode": "def find_and_click(driver, xpath):\n        try:\n            actions = ActionChains(driver)\n            WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, xpath)))\n            actions.move_to_element(driver.find_element(By.XPATH,xpath)).perform()\n            driver.find_element(By.XPATH, xpath).click()\n            print(f\"成功找到元素:{xpath}并点击\")\n        except NoSuchElementException:\n            print(f\"未找到路径为{xpath}的元素\")\n        except ElementNotInteractableException:",
+        "detail": "func.find_click",
+        "documentation": {}
+    },
+    {
+        "label": "wait_login_success",
+        "kind": 2,
+        "importPath": "func.find_click",
+        "description": "func.find_click",
+        "peekOfCode": "def wait_login_success(driver,xpath):\n    success = (By.XPATH, xpath)\n    try:\n        # WebDriverWait 会每隔一小段时间就判断一次指定的元素是否已经出现，这里设置最多等待300秒\n        WebDriverWait(driver, 300).until(EC.visibility_of_element_located(success))\n        print(\"成功登录！\")\n    except Exception as e:\n        print(f\"登录超时: {e}\")\ndef find_upload(driver, xpath, filepath):\n    try:",
+        "detail": "func.find_click",
+        "documentation": {}
+    },
+    {
+        "label": "find_upload",
+        "kind": 2,
+        "importPath": "func.find_click",
+        "description": "func.find_click",
+        "peekOfCode": "def find_upload(driver, xpath, filepath):\n    try:\n        WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, xpath)))\n        driver.find_element(By.XPATH, xpath).send_keys(filepath)\n        print(f\"成功找到元素:{xpath}并点击\")\n    except NoSuchElementException:\n        print(f\"未找到路径为{xpath}的元素\")\n    except ElementNotInteractableException:\n        print(f\"路径为{xpath}的元素不可交互\")\n    except Exception as e:",
+        "detail": "func.find_click",
+        "documentation": {}
+    },
+    {
+        "label": "find_input",
+        "kind": 2,
+        "importPath": "func.find_click",
+        "description": "func.find_click",
+        "peekOfCode": "def find_input(driver, xpath, text):\n    try:\n        WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, xpath)))\n        driver.find_element(By.XPATH, xpath).clear()\n        driver.find_element(By.XPATH, xpath).send_keys(text)\n        print(f\"成功找到元素:{xpath}并点击\")\n    except NoSuchElementException:\n        print(f\"未找到路径为{xpath}的元素\")\n    except ElementNotInteractableException:\n        print(f\"路径为{xpath}的元素不可交互\")",
+        "detail": "func.find_click",
+        "documentation": {}
+    },
+    {
+        "label": "markdownhere",
+        "kind": 2,
+        "importPath": "func.find_click",
+        "description": "func.find_click",
+        "peekOfCode": "def markdownhere(driver,xpath):\n    driver.find_element(By.XPATH,xpath).send_keys(Keys.CONTROL + 'a')\n    driver.find_element(By.XPATH,xpath).send_keys(Keys.CONTROL + Keys.ALT + 'm')",
+        "detail": "func.find_click",
+        "documentation": {}
+    },
+    {
+        "label": "md_to_docx",
+        "kind": 2,
+        "importPath": "func.md_to_doc",
+        "description": "func.md_to_doc",
+        "peekOfCode": "def md_to_docx(filepath):\n    output_path = os.path.splitext(filepath)[0] + '.docx'\n    try:   \n        subprocess.run(['pandoc', '-s', filepath, '-o', output_path], check=True)\n        print(\"文件转换成功！\")\n        return output_path\n    except subprocess.CalledProcessError as e:\n        print(f\"文件转换失败。命令`{e.cmd}`返回错误代码 {e.returncode}\")\n        return \nfilepath = '/run/media/kf/data/obsidian/Capture/ollma3部署记录.md'",
+        "detail": "func.md_to_doc",
+        "documentation": {}
+    },
+    {
+        "label": "filepath",
+        "kind": 5,
+        "importPath": "func.md_to_doc",
+        "description": "func.md_to_doc",
+        "peekOfCode": "filepath = '/run/media/kf/data/obsidian/Capture/ollma3部署记录.md'\nif __name__ == '__main__':\n    md_to_docx(filepath)",
+        "detail": "func.md_to_doc",
+        "documentation": {}
+    },
+    {
+        "label": "title",
+        "kind": 2,
+        "importPath": "func.title_content",
+        "description": "func.title_content",
+        "peekOfCode": "def title(filepath):\n    filename = os.path.splitext(os.path.basename(filepath))[0]\n    return filename \ndef content(filepath):\n    with open(filepath, 'r',encoding='utf-8') as f:\n        content = f.read()\n    content=re.sub(r'---(.|\\s)*?---', '', content)\n    return content\ndef md_content(filepath):\n    markdown = mistune.create_markdown()",
+        "detail": "func.title_content",
+        "documentation": {}
+    },
+    {
+        "label": "content",
+        "kind": 2,
+        "importPath": "func.title_content",
+        "description": "func.title_content",
+        "peekOfCode": "def content(filepath):\n    with open(filepath, 'r',encoding='utf-8') as f:\n        content = f.read()\n    content=re.sub(r'---(.|\\s)*?---', '', content)\n    return content\ndef md_content(filepath):\n    markdown = mistune.create_markdown()\n    with open(filepath, 'r',encoding='utf-8') as f:\n        content = f.read()\n    html = markdown(content) ",
+        "detail": "func.title_content",
+        "documentation": {}
+    },
+    {
+        "label": "md_content",
+        "kind": 2,
+        "importPath": "func.title_content",
+        "description": "func.title_content",
+        "peekOfCode": "def md_content(filepath):\n    markdown = mistune.create_markdown()\n    with open(filepath, 'r',encoding='utf-8') as f:\n        content = f.read()\n    html = markdown(content) \n    print(html)\n    return content\nif __name__ == '__main__':\n    filepath = '/run/media/kf/data/obsidian/Capture/ollma3部署记录.md'\n    # content(filepath)",
+        "detail": "func.title_content",
+        "documentation": {}
+    },
+    {
+        "label": "swich_new_window",
+        "kind": 2,
+        "importPath": "seleniumtest",
+        "description": "seleniumtest",
+        "peekOfCode": "def swich_new_window(driver):\n    handles = driver.window_handles\n    driver.switch_to.window(handles[-1])\ndef JIANSHU(platform=\"jianshu\"):\n    # 登录后 跳转到发布页\n    driver.get(config[platform][\"url\"])\n    swich_new_window(driver)\n    find_and_click(driver,config[platform][\"new_paper\"])\n    find_input(driver,config[platform][\"title\"],title)\n    find_input(driver,config[platform][\"content\"],content)",
+        "detail": "seleniumtest",
+        "documentation": {}
+    },
+    {
+        "label": "JIANSHU",
+        "kind": 2,
+        "importPath": "seleniumtest",
+        "description": "seleniumtest",
+        "peekOfCode": "def JIANSHU(platform=\"jianshu\"):\n    # 登录后 跳转到发布页\n    driver.get(config[platform][\"url\"])\n    swich_new_window(driver)\n    find_and_click(driver,config[platform][\"new_paper\"])\n    find_input(driver,config[platform][\"title\"],title)\n    find_input(driver,config[platform][\"content\"],content)\n    markdownhere(driver,config[platform][\"content\"])\n    sleep(2)\n    find_and_click(driver,config[platform][\"publish\"])",
+        "detail": "seleniumtest",
+        "documentation": {}
+    },
+    {
+        "label": "ZHIHU",
+        "kind": 2,
+        "importPath": "seleniumtest",
+        "description": "seleniumtest",
+        "peekOfCode": "def ZHIHU(platform=\"zhihu\"):\n    driver.get(config[platform][\"url\"]) \n    swich_new_window(driver)\n    find_and_click(driver,config[platform][\"doc\"])\n    find_and_click(driver,config[platform][\"doc2\"])\n    find_upload(driver,config[platform][\"upload_doc\"],filepath)\n    find_input(driver,config[platform][\"title\"],title)\n    find_and_click(driver,config[platform][\"publish_setting\"])\n    find_and_click(driver,config[platform][\"add_topic\"])\n    find_input(driver,config[platform][\"search_topic\"],title)",
+        "detail": "seleniumtest",
+        "documentation": {}
+    },
+    {
+        "label": "BLBL",
+        "kind": 2,
+        "importPath": "seleniumtest",
+        "description": "seleniumtest",
+        "peekOfCode": "def BLBL(platform=\"bilibili\"):\n    driver.get(config[platform][\"url\"])\n    swich_new_window(driver)\n    sleep(3)\n    iframe= driver.find_element(By.XPATH,\"//div[@id='edit-article-box']//iframe\")\n    driver.switch_to.frame(iframe)\n    print(\"switch to iframe\")\n    sleep(1)\n    driver.find_element(By.XPATH,\"//textarea\").send_keys(title)\n    print(\"title\")",
+        "detail": "seleniumtest",
+        "documentation": {}
+    },
+    {
+        "label": "CSDN",
+        "kind": 2,
+        "importPath": "seleniumtest",
+        "description": "seleniumtest",
+        "peekOfCode": "def CSDN(platform=\"csdn\"):\n    driver.get(config[platform][\"url\"])\n    swich_new_window(driver)\n    find_and_click(driver,config[platform][\"write_paper\"])\n    find_and_click(driver,config[platform][\"MD_editor\"])\n    swich_new_window(driver)\n    # find_upload(driver,config[platform][\"upload_doc\"],filepath)\n    driver.find_element(By.XPATH,config[platform][\"upload_doc\"]).send_keys(filepath)\n    driver.find_element(By.XPATH,config[platform][\"publish\"]).click()\n    driver.find_element(By.XPATH,config[platform][\"add_tag\"]).click()",
+        "detail": "seleniumtest",
+        "documentation": {}
+    },
+    {
+        "label": "WXGZH",
+        "kind": 2,
+        "importPath": "seleniumtest",
+        "description": "seleniumtest",
+        "peekOfCode": "def WXGZH(platform=\"wxgzh\"):\n    driver.get(config[platform][\"url\"])\n    swich_new_window(driver)\n    wait_login_success(driver,config[platform][\"pic_paper_news\"])\n    find_and_click(driver,config[platform][\"pic_paper_news\"])\n    swich_new_window(driver)\n    find_input(driver,config[platform][\"title\"],config[platform][\"title\"])\n    find_input(driver,config[platform][\"author\"],config[platform][\"author\"])\n    driver.switch_to.frame(config[platform][\"iframe\"])\n    find_input(driver,config[platform][\"content\"],content)",
+        "detail": "seleniumtest",
+        "documentation": {}
+    },
+    {
+        "label": "js_click",
+        "kind": 2,
+        "importPath": "seleniumtest",
+        "description": "seleniumtest",
+        "peekOfCode": "def js_click(driver,xpath):\n    e=driver.find_element(By.XPATH,xpath)\n    driver.execute_script('arguments[0].scrollIntoView({block: \"center\"});',e)\n    driver.execute_script(\"arguments[0].click();\", e)\ndef JUEJIN(platform='juejin'):\n    driver.get('https://juejin.cn/editor/drafts/new?v=2')\n    swich_new_window(driver)\n    sleep(2)\n    driver.find_element(By.XPATH,\"//div[@class='bytemd-toolbar-right']/div[@bytemd-tippy-path='6']\").click()\n    print(\"文档上传\")",
+        "detail": "seleniumtest",
+        "documentation": {}
+    },
+    {
+        "label": "JUEJIN",
+        "kind": 2,
+        "importPath": "seleniumtest",
+        "description": "seleniumtest",
+        "peekOfCode": "def JUEJIN(platform='juejin'):\n    driver.get('https://juejin.cn/editor/drafts/new?v=2')\n    swich_new_window(driver)\n    sleep(2)\n    driver.find_element(By.XPATH,\"//div[@class='bytemd-toolbar-right']/div[@bytemd-tippy-path='6']\").click()\n    print(\"文档上传\")\n    sleep(1)\n    driver.find_element(By.XPATH,\"//div[@class='upload-area']/input\").send_keys(filepath)\n    print(\"上传md file\")\n    sleep(1)",
+        "detail": "seleniumtest",
+        "documentation": {}
+    },
+    {
+        "label": "TOUTIAO",
+        "kind": 2,
+        "importPath": "seleniumtest",
+        "description": "seleniumtest",
+        "peekOfCode": "def TOUTIAO(platform='toutiao'):\n    driver.get(config[platform][\"url\"])\n    swich_new_window(driver)\n    sleep(1)\n    driver.find_elements(By.XPATH,\"//div[@class='syl-toolbar']//button\")[-1].click()\n    print('文档导入')\n    sleep(1)\n    doc_filepath = md_to_docx(filepath)\n    driver.find_element(By.XPATH,\"//input[@type='file']\").send_keys(doc_filepath)\n    os.remove(doc_filepath)",
+        "detail": "seleniumtest",
+        "documentation": {}
+    }
+]
